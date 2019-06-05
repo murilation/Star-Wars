@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/personagens-starwars/static/css/main.752d6969.chunk.css",
+    "main.js": "/personagens-starwars/static/js/main.b3f9feeb.chunk.js",
+    "main.js.map": "/personagens-starwars/static/js/main.b3f9feeb.chunk.js.map",
+    "runtime~main.js": "/personagens-starwars/static/js/runtime~main.18548005.js",
+    "runtime~main.js.map": "/personagens-starwars/static/js/runtime~main.18548005.js.map",
+    "static/js/2.c77a4288.chunk.js": "/personagens-starwars/static/js/2.c77a4288.chunk.js",
+    "static/js/2.c77a4288.chunk.js.map": "/personagens-starwars/static/js/2.c77a4288.chunk.js.map",
+    "index.html": "/personagens-starwars/index.html",
+    "precache-manifest.926ea1bb05c012a65b81b92cb2068beb.js": "/personagens-starwars/precache-manifest.926ea1bb05c012a65b81b92cb2068beb.js",
+    "service-worker.js": "/personagens-starwars/service-worker.js",
+    "static/css/main.752d6969.chunk.css.map": "/personagens-starwars/static/css/main.752d6969.chunk.css.map",
+    "static/media/stylesheet.css": "/personagens-starwars/static/media/SerifGothicStd-ExtraBold.ec3d3e0d.woff2",
+    "static/media/loader.gif": "/personagens-starwars/static/media/loader.ddfae4aa.gif"
+  }
+}
