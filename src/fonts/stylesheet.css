@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'ITC Serif Gothic Std';
+    src: url('SerifGothicStd-ExtraBold.woff2') format('woff2'),
+        url('SerifGothicStd-ExtraBold.woff') format('woff');
+    font-weight: 800;
+    font-style: normal;
+}

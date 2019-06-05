@@ -1,0 +1,25 @@
+.pagination {
+  display: -webkit-flex;
+  display: -ms-flex;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 80px;
+  &__button {
+    margin: 0 5px;
+    display: inline-block;
+    font-family: $secundary;
+    font-size: 16px;
+    border: 0;
+    border-radius: $radius;
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    cursor: pointer;
+    background: $color-white;
+    transition: .4s;
+    &--active {
+      background: $color-yellow;
+    }
+  }
+}

@@ -1,0 +1,43 @@
+*, *::after, *::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  width: 100%;
+  background: $color-black url(//cssanimation.rocks/demo/starwars/images/bg.jpg);
+  overflow-x: hidden;
+  font-family: $primary;
+}
+
+.main-header {
+  height: 10vh;
+  color: $color-white;
+  display: -webkit-flex;
+  display: -ms-flex;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 0;
+  @include breakpoint(max, 450px) {
+    padding: 20px 0;
+    height: auto;
+  }
+
+  &__title {
+    font-family: 'ITC Serif Gothic Std';
+    font-weight: 800;
+    text-transform: uppercase;
+    font-size: 40px;
+    @include breakpoint(max, 450px) {
+      font-size: 30px;
+      text-align: center;
+      padding: 0 5%;
+    }
+  }
+}
