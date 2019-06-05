@@ -13,10 +13,10 @@ Listar todos os personagens da franquia Star Wars, existentes na [api](https://s
 
 ## **Instalação das dependências**
 
-Para instalar as dependências
+Para instalar as dependências, deve se ter a versão mais atualizada do npm e digitar:
 
 ```
-npm i
+npm install
 ```
 
 ## **Execução do projeto**
